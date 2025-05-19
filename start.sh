@@ -8,7 +8,7 @@ cd "$SCRIPT_DIR"
 
 # Run the initialization script to set environment variables
 echo "Initializing environment variables..."
-./init-env.sh
+./utils/init-env.sh
 
 # Start the containers in detached mode
 echo "Starting containers..."
