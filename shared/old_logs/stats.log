@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------------
+Date: 5/19/2025 -- 18:54:52 (uptime: 0d, 00h 00m 08s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.afpacket.polls                        | Total                     | 173
+capture.afpacket.poll_timeout                 | Total                     | 173
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 1867776
+tcp.reassembly_memuse                         | Total                     | 344064
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 5/19/2025 -- 18:54:56 (uptime: 0d, 00h 00m 12s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.afpacket.polls                        | Total                     | 332
+capture.afpacket.poll_timeout                 | Total                     | 329
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 1867776
+tcp.reassembly_memuse                         | Total                     | 344064
+flow.memuse                                   | Total                     | 7234304
